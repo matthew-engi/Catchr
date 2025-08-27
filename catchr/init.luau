@@ -1,5 +1,5 @@
 --[=[
-	🐈 catchr - Multi-Instance Detection Module
+	catchr - Multi-Instance Detection Module
 	─────────────────────────────────────────────
 	Author: Matthew (Creaco) · License: License.luau
 	Version: 1.0.0
@@ -11,7 +11,7 @@
 	
 	All of this, while providing cross-server support, and for long-lasting periods.
 		
-	🔗 Inspired by:
+	Inspired by:
 		- https://github.com/raphtalia/RbxFingerprint
 --]=]
 
